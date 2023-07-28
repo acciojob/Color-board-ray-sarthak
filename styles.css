@@ -1,1 +1,58 @@
 /*  your css code here. If applicable */
+html{
+	background-color:black;
+}
+.container{
+	display:flex;
+	
+	 flex-wrap: wrap;
+
+	  
+	
+}
+.square{
+	background-color:grey;
+	width:20px;
+	margin:1px;
+	color:grey;
+	transition: all  ease-in 1s;
+	
+}
+#cyan:hover{
+	background-color:cyan;
+	color:cyan;
+}
+#green:hover{
+	background-color:green;
+	color:green;
+}
+#blue:hover{
+	background-color:lightblue;
+	color:lightblue;
+}
+#orange:hover{
+	background-color:orange;
+	color:orange;
+}
+#pink:hover{
+	background-color:pink;
+	color:lightpink;
+}
+#liblue:hover{
+	background-color:aliceblue;
+	color:aliceblue;
+}
+#brown:hover{
+	background-color:firebrick;
+	color:firebrick;
+}
+#grey:hover{
+	background-color:dimgray;
+	color:dimgray;
+}
+#yellow:hover{
+	background-color:yellow;
+	color:yellow;
+}
+
+
