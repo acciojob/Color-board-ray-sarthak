@@ -15,7 +15,8 @@ html{
 	width:20px;
 	margin:1px;
 	color:grey;
-	transition: all  ease-in 1s;
+	transition: all 2s linar ease-out ;
+	  
 	
 }
 #cyan:hover{
@@ -51,8 +52,8 @@ html{
 	color:dimgray;
 }
 #yellow:hover{
-	background-color:yellow;
-	color:yellow;
+	background-color:rgb(29, 29, 29);
+	color:rgb(29, 29, 29);
 }
 
 
